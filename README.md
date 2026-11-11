@@ -115,13 +115,8 @@ I specialize in developing robust backend architectures, designing REST APIs, an
 <img src="https://skillicons.dev/icons?i=openai,python" />
 </p>
 
-**Also working with:** LangChain · ElevenLabs · LLM APIs · REST Integrations
 
 ### 🤖 AI, LLM & Intelligent Integrations
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=openai,python" />
-</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
