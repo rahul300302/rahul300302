@@ -117,6 +117,39 @@ I specialize in developing robust backend architectures, designing REST APIs, an
 
 **Also working with:** LangChain · ElevenLabs · LLM APIs · REST Integrations
 
+### 🤖 AI, LLM & Intelligent Integrations
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=openai,python" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LLM_APIs-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Agents-0A7EA4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Voice_AI-FF6B35?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-6C5CE7?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST_Integrations-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Automation-16A085?style=flat-square" />
+</p>
+
+**Areas of Expertise**
+
+- 🧠 LLM Integration & Prompt Engineering
+- 🤖 AI Agents & Conversational Chatbots
+- 🎙️ Voice AI & Speech-Based Applications
+- 🔗 LangChain & AI Workflow Integration
+- 📊 AI-Powered Analytics & Data Assistants
+- ⚡ Intelligent Business Process Automation
+- 🔌 Third-Party API & Webhook Integrations
+
+
 ### Frontend Development
 
 <p>
