@@ -87,11 +87,10 @@ I'm a Software Engineer with **5 years of experience** designing and shipping ba
 
 | Project | Description | Stack |
 |---|---|---|
-| [**kid-quiz-ai**](https://github.com/rahul300302/kid-quiz-ai) | Age-appropriate AI quiz generator for children with instant scoring and progress feedback. | TypeScript · React · OpenAI |
-| [**live-vehicle-tracking**](https://github.com/rahul300302/live-vehicle-tracking) | Real-time vehicle/delivery tracking on a live map with location streaming. | Node.js · Socket.io · Maps API |
-| [**gps-location-tracker**](https://github.com/rahul300302/gps-location-tracker) | Lightweight service for capturing and broadcasting device GPS coordinates. | JavaScript · Geolocation API |
-| [**task-management-system**](https://github.com/rahul300302/task-management-system) | Full-stack task manager with auth, CRUD APIs, and status workflows. | Node.js · Express · MongoDB |
-| [**katta-dress-ecommerce**](https://github.com/rahul300302/katta-dress-ecommerce) | E-commerce storefront with catalogue, cart, and checkout flow. | TypeScript · React · Tailwind |
+| [**kid-quiz-ai**](https://github.com/rahul300302/kid-quiz-ai) | AI-powered quiz generator for kids with scoring and progress tracking. | NestJS · Prisma · TypeScript |
+| [**live-vehicle-tracking**](https://github.com/rahul300302/live-vehicle-tracking) | Real-time vehicle/delivery tracking on a live map with GPS location streaming. | Node.js · Express · Maps |
+| [**task-management-system**](https://github.com/rahul300302/task-management-system) | Task management REST API with JWT auth, CRUD and status workflows. | Node.js · Express · MongoDB |
+| [**katta-dress-ecommerce**](https://github.com/rahul300302/katta-dress-ecommerce) | Full-stack men's T-shirt e-commerce store with catalogue, cart and checkout. | Next.js · TypeScript · Tailwind |
 
 ---
 
