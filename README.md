@@ -116,6 +116,17 @@ I specialize in developing robust backend architectures, designing REST APIs, an
 </p>
 
 
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### Cloud & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,postman,vercel" />
+</p>
 ### 🤖 AI, LLM & Intelligent Integrations
 
 <p align="left">
@@ -144,18 +155,6 @@ I specialize in developing robust backend architectures, designing REST APIs, an
 - ⚡ Intelligent Business Process Automation
 - 🔌 Third-Party API & Webhook Integrations
 
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
-
-### Cloud & Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,postman,vercel" />
-</p>
 
 ---
 
