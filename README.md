@@ -1,170 +1,251 @@
-# 👋 Hi, I'm Rahul V.
+
+<!-- PROFILE HEADER -->
+
+<div align="center">
+
+# 👋 Hey, I'm Rahul V.
 
 ### Software Engineer | Backend Developer | AI Integration Engineer
 
-**Building scalable backend systems and intelligent AI-powered applications.**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Developing+AI-Powered+Applications;Node.js+%7C+Express.js+%7C+TypeScript;Turning+Ideas+Into+Production+Software" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahul-v-20329327b)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulraw2002@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rahulportfolio.mystrikingly.com/)
+<p>
+  <a href="https://www.linkedin.com/in/rahul-v-20329327b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:rahulraw2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://rahulportfolio.mystrikingly.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-8957E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=rahul300302&label=Profile%20Views&color=58A6FF&style=flat" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Software Engineer with **5 years of experience** building production-ready applications, scalable backend services, and business-focused software solutions.
+I'm a **Software Engineer with 5 years of experience** building production-ready applications, scalable backend services, and intelligent business solutions.
 
-My primary expertise is in **Node.js, Express.js, REST APIs, database architecture, and AI integrations**.
+I specialize in developing robust backend architectures, designing REST APIs, and integrating AI capabilities into real-world applications.
 
-I enjoy transforming complex business requirements into reliable software products — especially AI-powered automation, conversational agents, education platforms, and real-time applications.
-
-- 🤖 Developing AI agents, LLM integrations, and intelligent automation.
-- ⚙️ Designing scalable Node.js backend architectures and REST APIs.
-- 🎓 Building Learning Management Systems and EdTech applications.
-- 🚚 Developing logistics, delivery, and real-time GPS tracking systems.
-- 🔐 Integrating third-party APIs, OAuth, authentication, and enterprise workflows.
+- 🤖 Building AI-powered chatbots, agents, and intelligent automation.
+- ⚙️ Designing scalable Node.js and Express.js backend systems.
+- 🎓 Developing Learning Management Systems and education platforms.
+- 🚚 Building delivery management and real-time GPS tracking applications.
+- 🔐 Integrating third-party, government, authentication, and payment APIs.
 - 📍 Based in Chennai, India.
 
-**Currently interested in:** Senior Backend Engineer · Node.js Developer · AI Engineer · Software Engineer.
+**Currently interested in:** Senior Software Engineer | Backend Engineer | AI Integration Engineer opportunities.
 
 ---
 
-## 🧠 Engineering Expertise
+## 💡 What I Build
 
-### 🤖 AI Engineering & Intelligent Automation
+<table>
+<tr>
+<td width="50%">
 
-- AI-powered lead management and conversational agents.
-- LLM integration with existing enterprise applications.
-- LangChain and LangGraph-based agent workflows.
-- AI-powered analytics and natural-language data querying.
-- Voice-enabled chatbots and conversational interfaces.
-- AI-generated quizzes, study plans, and learning assistance.
+### 🤖 AI & Intelligent Automation
+
+- AI-powered lead generation agents
+- Conversational AI and voice agents
+- AI analytics assistants
+- AI study assistants and quiz generators
+
+</td>
+<td width="50%">
+
+### 🎓 Learning Management Systems
+
+- Course and curriculum management
+- Student progress and attendance
+- Assessment and examination systems
+- Parent/student portals and mobile apps
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚚 Delivery & Logistics
+
+- Delivery management systems
+- Driver assignment and tracking
+- Real-time GPS location streaming
+- Order lifecycle and dispatch dashboards
+
+</td>
+<td width="50%">
 
 ### ⚙️ Backend Engineering
 
-- Node.js and Express.js application architecture.
-- REST API development, optimization, and integration.
-- Microservice-oriented backend development.
-- Authentication, JWT, OAuth 2.0, and RBAC.
-- Database design, indexing, and query optimization.
-- Real-time communication using WebSockets and Socket.IO.
-- Background jobs, error handling, logging, and deployment.
+- Scalable REST API architecture
+- Database design and optimization
+- Authentication and authorization
+- Background jobs, caching and integrations
 
-### 🎓 Education & Enterprise Applications
-
-- Learning Management Systems (LMS).
-- Student, parent, and administrative portals.
-- Course, curriculum, and assessment management.
-- Attendance and student progress tracking.
-- Payment gateway and government API integrations.
-- Enterprise workflow automation.
-
-### 🚚 Logistics & Real-Time Applications
-
-- Delivery and order management systems.
-- Live GPS and vehicle tracking.
-- Driver assignment and delivery workflows.
-- Real-time location updates and map integrations.
-- Operational dashboards and tracking APIs.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Arsenal
 
 ### Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,typescript,javascript" />
+</p>
 
-### Databases & Storage
+### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+</p>
 
-### AI & Machine Learning
+### AI & Integrations
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=openai,python" />
+</p>
+
+**Also working with:** LangChain · ElevenLabs · LLM APIs · REST Integrations
 
 ### Frontend Development
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
 
-### Cloud, DevOps & Tools
+### Cloud & Development Tools
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,postman,vercel" />
+</p>
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🤖 AI & Intelligent Applications
+<table>
+<tr>
+<td width="50%">
 
-| Project | Description | Technologies |
-|---|---|---|
-| [AI Study Assistant](https://github.com/rahul300302/ai-study-assistant) | AI-powered learning assistant that generates explanations, quizzes, and study plans. | Next.js · TypeScript · LLM |
-| [Kids Quiz AI](https://github.com/rahul300302/kid-quiz-ai) | AI-based quiz generator with instant scoring and learning feedback. | React · TypeScript · OpenAI |
+### 🤖 AI Study Assistant
 
-### 🚀 Backend & Real-Time Applications
+An AI-powered learning assistant that generates explanations, quizzes, and personalized study plans.
 
-| Project | Description | Technologies |
-|---|---|---|
-| [Live Vehicle Tracking](https://github.com/rahul300302/live-vehicle-tracking) | Real-time vehicle tracking and location streaming on maps. | Node.js · Socket.IO |
-| [GPS Location Tracker](https://github.com/rahul300302/gps-location-tracker) | GPS coordinate collection and location broadcasting. | JavaScript · Geolocation |
-| [Task Management System](https://github.com/rahul300302/task-management-system) | Full-stack task management with authentication and CRUD workflows. | Node.js · Express · MongoDB |
-| [Katta Dress E-commerce](https://github.com/rahul300302/katta-dress-ecommerce) | E-commerce application with product catalogue, cart, and checkout. | React · TypeScript · Tailwind |
+**Stack:** TypeScript · Next.js · LLM API
+
+<a href="https://github.com/rahul300302/ai-study-assistant">View Repository →</a>
+
+</td>
+<td width="50%">
+
+### 🧠 Kids Quiz AI
+
+An age-appropriate AI quiz generator for children with instant scoring and progress feedback.
+
+**Stack:** TypeScript · React · OpenAI
+
+<a href="https://github.com/rahul300302/kid-quiz-ai">View Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚚 Live Vehicle Tracking
+
+Real-time vehicle and delivery tracking using GPS location streaming and live maps.
+
+**Stack:** Node.js · Socket.io · Maps API
+
+<a href="https://github.com/rahul300302/live-vehicle-tracking">View Repository →</a>
+
+</td>
+<td width="50%">
+
+### 📍 GPS Location Tracker
+
+A lightweight application for capturing and broadcasting device GPS coordinates.
+
+**Stack:** JavaScript · Geolocation API
+
+<a href="https://github.com/rahul300302/gps-location-tracker">View Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📋 Task Management System
+
+A full-stack task management application with authentication, CRUD APIs, and status workflows.
+
+**Stack:** Node.js · Express · MongoDB
+
+<a href="https://github.com/rahul300302/task-management-system">View Repository →</a>
+
+</td>
+<td width="50%">
+
+### 🛍️ Katta Dress Ecommerce
+
+An e-commerce storefront featuring product catalogues, shopping cart, and checkout functionality.
+
+**Stack:** TypeScript · React · Tailwind CSS
+
+<a href="https://github.com/rahul300302/katta-dress-ecommerce">View Repository →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rahul300302&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rahul's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul300302&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rahul300302&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahul300302&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul300302&layout=compact&theme=tokyonight&hide_border=true" />
 
-## 🐍 Contribution Activity
+<br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahul300302/rahul300302/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-</p>
+<img width="90%" src="https://streak-stats.demolab.com?user=rahul300302&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 💬 Let's Connect
+## 🤝 Let's Connect
 
-I'm always interested in discussing backend architecture, AI engineering, intelligent automation, and scalable software products.
+<div align="center">
 
-- 📧 **Email:** [rahulraw2002@gmail.com](mailto:rahulraw2002@gmail.com)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rahul-v-20329327b)
-- 🌐 **Portfolio:** [Explore my portfolio](https://rahulportfolio.mystrikingly.com/)
-- 💻 **GitHub:** [@rahul300302](https://github.com/rahul300302)
+### Have an interesting idea or project?
 
----
+I'm always happy to connect and discuss backend architecture, AI integrations, scalable applications, and software engineering.
 
-<p align="center">
-  <b>Building technology that solves real-world problems. 🚀</b>
-</p>
+<a href="mailto:rahulraw2002@gmail.com">
+  <img src="https://img.shields.io/badge/Let's_Talk-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<p align="center">
-  <i>Thanks for visiting my profile!</i>
-</p>
+<a href="https://www.linkedin.com/in/rahul-v-20329327b">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**"Building technology that solves real-world problems."**
+
+⭐ Thanks for visiting my profile!
+
+</div>
