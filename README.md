@@ -29,7 +29,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer with 5 years of experience** building production-ready applications, scalable backend services, and intelligent business solutions.
+I'm a **Software Engineer with 4 years of experience** building production-ready applications, scalable backend services, and intelligent business solutions.
 
 I specialize in developing robust backend architectures, designing REST APIs, and integrating AI capabilities into real-world applications.
 
